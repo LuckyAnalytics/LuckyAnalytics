@@ -7,11 +7,11 @@
 I enjoy turning complex data into meaningful insights through analytics, visualization, and machine learning.
 
 ### What I Do
-• Analyze data with Python & SQL
-• Build interactive dashboards in Power BI
-• Create Machine Learning projects
-• Develop modern web applications
-• Continuously learn and improve
+• Analyze data with Python & SQL<br>
+• Build interactive dashboards in Power BI<br>
+• Create Machine Learning projects<br>
+• Develop modern web applications<br>
+• Continuously learn and improve<br>
 
 
 ## 🌐 Socials:
