@@ -1,5 +1,17 @@
-# 💫 About Me:
- I'm Lucky Singh, Data Analyst currently pursuing my MCA in Artificial Intelligence & Machine Learning.<br><br>I enjoy working with data, creating dashboards, automating workflows, and developing intelligent solutions through machine learning. My goal is to build impactful, data-driven applications that solve real-world business challenges.
+# 💫 LUCKY SINGH
+
+🎓 MCA (AI & ML) Student
+📊 Data Analyst
+🤖 AI & Machine Learning 
+
+I enjoy turning complex data into meaningful insights through analytics, visualization, and machine learning.
+
+### What I Do
+• Analyze data with Python & SQL
+• Build interactive dashboards in Power BI
+• Create Machine Learning projects
+• Develop modern web applications
+• Continuously learn and improve
 
 
 ## 🌐 Socials:
