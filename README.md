@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Lucky Singh, an aspiring Data Analyst and AI/ML Engineer currently pursuing my MCA in Artificial Intelligence & Machine Learning.<br><br>I enjoy working with data, creating dashboards, automating workflows, and developing intelligent solutions through machine learning. My goal is to build impactful, data-driven applications that solve real-world business challenges.
+ I'm Lucky Singh, Data Analyst currently pursuing my MCA in Artificial Intelligence & Machine Learning.<br><br>I enjoy working with data, creating dashboards, automating workflows, and developing intelligent solutions through machine learning. My goal is to build impactful, data-driven applications that solve real-world business challenges.
 
 
 ## 🌐 Socials:
