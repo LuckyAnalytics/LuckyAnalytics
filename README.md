@@ -6,6 +6,8 @@
 
 I enjoy turning complex data into meaningful insights through analytics, visualization, and machine learning.
 
+#### 🌐 Portfolio: [View My Portfolio](https://github.com/LuckyAnalytics/Portfolio)
+
 ### What I Do?
 • Analyze data with Python & SQL<br>
 • Build interactive dashboards in Power BI<br>
