@@ -60,14 +60,6 @@ I enjoy turning complex data into meaningful insights through analytics, visuali
 
 
 
- ## 📊 GitHub Stats:
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckyAnalytics&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyAnalytics&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🔥 GitHub Streak:
 
 <p align="center">
