@@ -58,4 +58,29 @@ I enjoy turning complex data into meaningful insights through analytics, visuali
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+## 📊 GitHub Stats:
+![LuckyAnalytics GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckyAnalytics&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyAnalytics&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuckyAnalytics&theme=radical)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuckyAnalytics&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyAnalytics&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🔥 GitHub Streak:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LuckyAnalytics&theme=radical" alt="GitHub Streak" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
