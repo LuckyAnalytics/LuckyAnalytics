@@ -69,6 +69,10 @@ I enjoy turning complex data into meaningful insights through analytics, visuali
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuckyAnalytics&theme=radical&no-frame=true&margin-w=10)](https://github.com/LuckyAnalytics)
-
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
+       width="90"
+       height="90"
+       alt="YOLO Achievement">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
