@@ -67,4 +67,8 @@ I enjoy turning complex data into meaningful insights through analytics, visuali
 </p>
 
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuckyAnalytics&theme=radical&no-frame=true&margin-w=10)](https://github.com/LuckyAnalytics)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
